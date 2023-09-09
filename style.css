@@ -1,0 +1,15 @@
+.texto-menor{
+  font-size: 13px;
+}
+
+.divs-facilidades{
+  width: 325px;
+}
+
+.facilidades-titulo, .bi-x-diamond, .bi-arrow-repeat, .bi-flower1{
+  color: #DAFF01;
+}
+
+.botao-lilas{
+  background-color: #9353FF !important;
+}
