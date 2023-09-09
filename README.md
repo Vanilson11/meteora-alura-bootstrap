@@ -1,1 +1,1 @@
-Projeto desenvolvido durante o curso de BootStrap 5 da [alura][https://www.alura.com.br/]
+Projeto desenvolvido durante o curso de BootStrap 5 da [alura](https://www.alura.com.br/)
